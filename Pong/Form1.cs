@@ -1,7 +1,7 @@
 ﻿/*
  * Description:     A basic PONG simulator
- * Author:           
- * Date:            
+ * Author:          Brendan Moorehead
+ * Date:            Feb 15, 2019
  */
 
 #region libraries
